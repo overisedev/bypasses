@@ -1,3 +1,4 @@
 {
-  "1174180": { "name": "Red Dead Redemption 2", "folder": "Red Dead Redemption 2", "launch": "RDR2Launcher.exe" }
+  "1174180": { "name": "Red Dead Redemption 2", "folder": "Red Dead Redemption 2", "launch": "RDR2Launcher.exe" },
+  "271590": { "launch": "PlayGTAV.exe", "args": "-nobattleye" }
 }

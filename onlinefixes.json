@@ -1,3 +1,57 @@
 {
-  "4704690": { "name": "MECCHA CHAMELEON", "launch": "PenguinHotel.exe" }
+  "4704690": {
+    "name": "MECCHA CHAMELEON",
+    "launch": "PenguinHotel.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login na sua conta",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo PenguinHotel.exe com o online ativo)",
+      "No jogo, vá em <b>Conexão &gt; Iniciar</b>",
+      "Pra <b>criar</b> um servidor: digite um nome e clique em <b>Criar servidor de entrada</b>",
+      "Pra <b>entrar</b> no de um amigo: digite o nome do servidor dele, pesquise e clique em <b>Iniciar</b>",
+      "Aguarde seu amigo entrar e joguem juntos"
+    ]
+  },
+  "2129530": {
+    "name": "REANIMAL",
+    "launch": "Everholm/Binaries/Win64/REANIMAL.exe",
+    "howto": [
+      "Na Steam, adicione o <b>Passe de Amigo do REANIMAL</b> à sua conta (na página da loja)",
+      "Abra o <b>Steam</b> e faça login",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo REANIMAL.exe)",
+      "No jogo: <b>Hospedagem online &gt; Novo jogo &gt; Cooperativo</b>",
+      "Convide um amigo (ou aceite o convite dele) e aguarde a conexão"
+    ]
+  },
+  "1392860": {
+    "name": "Little Nightmares III",
+    "launch": "steam",
+    "howto": [
+      "Na Steam, baixe o <b>Teste Gratuito e Passe de Amigo</b> do Little Nightmares III",
+      "Abra o <b>Steam</b> e faça login",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (esse abre <b>pela Steam</b>)",
+      "No jogo: <b>Multijogador</b> &gt; aceite o convite de um amigo (ou convide você)",
+      "Aguarde a conexão"
+    ]
+  },
+  "3454980": {
+    "name": "Mortal Kombat: Legacy Kollection",
+    "launch": "mk_legacy_collection.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo mk_legacy_collection.exe)",
+      "No jogo: <b>Conectar / Criar servidor &gt; Jogar</b>",
+      "Em <b>Partida rápida</b>, selecione o modo e aguarde o oponente"
+    ]
+  },
+  "2622380": {
+    "name": "ELDEN RING NIGHTREIGN",
+    "launch": "nrsc_launcher.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo nrsc_launcher.exe)",
+      "Conclua o prólogo ou <b>pule o tutorial</b>",
+      "Conexão: <b>aceite o convite de um amigo</b>",
+      "Criar servidor: <b>Configurações de pareamento &gt; Convidar membros &gt; Inicie a Expedição</b>"
+    ]
+  }
 }

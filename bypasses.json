@@ -1,4 +1,54 @@
 {
-  "1174180": { "name": "Red Dead Redemption 2", "folder": "Red Dead Redemption 2", "launch": "RDR2Launcher.exe" },
-  "271590": { "launch": "PlayGTAV.exe", "args": "-nobattleye" }
+  "1144200": {
+    "name": "Ready or Not"
+  },
+  "1174180": {
+    "name": "Red Dead Redemption 2",
+    "folder": "Red Dead Redemption 2",
+    "launch": "RDR2Launcher.exe"
+  },
+  "12100": {
+    "name": "Grand Theft Auto III"
+  },
+  "1426210": {
+    "name": "It Takes Two"
+  },
+  "1546990": {
+    "name": "Grand Theft Auto: Vice City – The Definitive Edition"
+  },
+  "1547000": {
+    "name": "Grand Theft Auto: San Andreas – The Definitive Edition"
+  },
+  "2215200": {
+    "name": "LEGO® Batman™: Legacy of the Dark Knight"
+  },
+  "2358720": {
+    "name": "Black Myth: Wukong"
+  },
+  "2668510": {
+    "name": "Red Dead Redemption"
+  },
+  "271590": {
+    "launch": "PlayGTAV.exe",
+    "args": "-nobattleye",
+    "name": "Grand Theft Auto V Legacy"
+  },
+  "3357650": {
+    "name": "PRAGMATA"
+  },
+  "371660": {
+    "name": "Far Cry® Primal"
+  },
+  "3764200": {
+    "name": "Resident Evil Requiem"
+  },
+  "3768760": {
+    "name": "007 First Light"
+  },
+  "752590": {
+    "name": "A Plague Tale: Innocence"
+  },
+  "990080": {
+    "name": "Hogwarts Legacy"
+  }
 }

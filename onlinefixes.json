@@ -67,16 +67,15 @@
       "Tem <b>chat de voz por proximidade</b>. Teste seu microfone antes de começar"
     ]
   },
-  "393380": {
-    "name": "Squad",
-    "launch": "squad_launcher.exe",
+  "3241660": {
+    "name": "R.E.P.O.",
+    "launch": "REPO.exe",
     "howto": [
       "Abra o <b>Steam</b> e faça login na sua conta",
-      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo squad_launcher.exe com o online ativo)",
-      "No menu principal, entre no <b>Navegador de Servidores</b> (ou <b>Custom Browser</b>)",
-      "Você e seus amigos precisam <b>entrar no MESMO servidor</b> (o Squad não tem grupo automático)",
-      "No <b>Custom Browser</b>, ative <b>Show Empty Servers</b> e pesquise o nome do servidor pra acharem o mesmo",
-      "Combine pelo Steam (clique no amigo &gt; Entrar no jogo) e entrem no mesmo servidor"
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo REPO.exe com o online ativo)",
+      "Pra <b>HOSPEDAR</b>: no menu, clique em <b>Host Game</b>, confirme, e depois em <b>Invite</b> pra convidar amigos pelo Steam",
+      "Pra <b>ENTRAR</b>: clique em <b>Join Game</b> (abre a lista de amigos do Steam) e escolha quem está hospedando",
+      "Cabem até <b>6 jogadores</b>. Os amigos precisam estar na sua lista do Steam (não tem matchmaking aleatório)"
     ]
   }
 }

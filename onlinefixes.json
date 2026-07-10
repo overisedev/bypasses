@@ -66,5 +66,28 @@
       "Sem ninguém pra jogar? Clique em <b>Find Survivor</b> pra achar outro jogador",
       "Tem <b>chat de voz por proximidade</b>. Teste seu microfone antes de começar"
     ]
+  },
+  "393380": {
+    "name": "Squad",
+    "launch": "squad_launcher.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login na sua conta",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo squad_launcher.exe com o online ativo)",
+      "No menu principal, entre no <b>Navegador de Servidores</b> (ou <b>Custom Browser</b>)",
+      "Você e seus amigos precisam <b>entrar no MESMO servidor</b> (o Squad não tem grupo automático)",
+      "No <b>Custom Browser</b>, ative <b>Show Empty Servers</b> e pesquise o nome do servidor pra acharem o mesmo",
+      "Combine pelo Steam (clique no amigo &gt; Entrar no jogo) e entrem no mesmo servidor"
+    ]
+  },
+  "648800": {
+    "name": "Raft",
+    "launch": "Raft.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login na sua conta",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo Raft.exe com o online ativo)",
+      "No menu, clique em <b>Jogar</b> e crie um <b>Novo mundo</b> (ou continue um salvo)",
+      "Deixe o mundo em <b>Online</b> e <b>convide seus amigos pelo Steam</b> (ou aceite o convite de um amigo)",
+      "Cabem até <b>8 jogadores</b> no mesmo save. Aguardem a conexão e joguem juntos"
+    ]
   }
 }

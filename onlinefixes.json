@@ -53,5 +53,18 @@
       "Conexão: <b>aceite o convite de um amigo</b>",
       "Criar servidor: <b>Configurações de pareamento &gt; Convidar membros &gt; Inicie a Expedição</b>"
     ]
+  },
+  "4121170": {
+    "name": "Fears to Fathom - Scratch Creek",
+    "launch": "Fears to Fathom - Scratch Creek.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login na sua conta",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo Fears to Fathom - Scratch Creek.exe com o online ativo)",
+      "O jogo é <b>co-op online de 2 jogadores</b> (não tem modo solo)",
+      "No <b>menu principal</b>, clique em <b>Connect</b>",
+      "Pra jogar com um amigo: um de vocês <b>convida o outro pelo Steam</b>",
+      "Sem ninguém pra jogar? Clique em <b>Find Survivor</b> pra achar outro jogador",
+      "Tem <b>chat de voz por proximidade</b>. Teste seu microfone antes de começar"
+    ]
   }
 }

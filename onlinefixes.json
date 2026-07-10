@@ -78,16 +78,5 @@
       "No <b>Custom Browser</b>, ative <b>Show Empty Servers</b> e pesquise o nome do servidor pra acharem o mesmo",
       "Combine pelo Steam (clique no amigo &gt; Entrar no jogo) e entrem no mesmo servidor"
     ]
-  },
-  "648800": {
-    "name": "Raft",
-    "launch": "Raft.exe",
-    "howto": [
-      "Abra o <b>Steam</b> e faça login na sua conta",
-      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo Raft.exe com o online ativo)",
-      "No menu, clique em <b>Jogar</b> e crie um <b>Novo mundo</b> (ou continue um salvo)",
-      "Deixe o mundo em <b>Online</b> e <b>convide seus amigos pelo Steam</b> (ou aceite o convite de um amigo)",
-      "Cabem até <b>8 jogadores</b> no mesmo save. Aguardem a conexão e joguem juntos"
-    ]
   }
 }

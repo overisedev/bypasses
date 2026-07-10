@@ -45,7 +45,7 @@
   },
   "2622380": {
     "name": "ELDEN RING NIGHTREIGN",
-    "launch": "nrsc_launcher.exe",
+    "launch": "Game/nrsc_launcher.exe",
     "howto": [
       "Abra o <b>Steam</b> e faça login",
       "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo nrsc_launcher.exe)",

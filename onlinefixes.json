@@ -77,5 +77,16 @@
       "Pra <b>ENTRAR</b>: clique em <b>Join Game</b> (abre a lista de amigos do Steam) e escolha quem está hospedando",
       "Cabem até <b>6 jogadores</b>. Os amigos precisam estar na sua lista do Steam (não tem matchmaking aleatório)"
     ]
+  },
+  "1245620": {
+    "name": "ELDEN RING",
+    "launch": "Game/ersc_launcher.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo ersc_launcher.exe com o Seamless Co-op ativo)",
+      "No jogo, complete o <b>prólogo</b>: chegue até o primeiro <b>Local de Graça</b> e ative ele",
+      "Pra <b>ENTRAR</b> no jogo de um amigo: abra o <b>inventário</b> e use a <b>Efígie de Malenia</b> (conecta automático no host)",
+      "Pra <b>CRIAR</b> um servidor: abra o inventário e use o <b>Pequeno Grande Vaso</b>, e aguarde os amigos conectarem"
+    ]
   }
 }

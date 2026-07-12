@@ -109,5 +109,56 @@
       "Pra <b>ENTRAR</b> no jogo de um amigo: aguarde o <b>convite dele pelo Steam</b>",
       "Pra <b>CRIAR</b> um servidor: <b>Criar novo jogo &gt; Começar</b>, aperte <b>Esc</b> e clique em <b>Convidar amigos</b>"
     ]
+  },
+  "3267550": {
+    "name": "The Backrooms Rescue Expedition",
+    "launch": "RescueExpedition.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo RescueExpedition.exe com o online ativo)",
+      "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite dele pelo Steam</b>",
+      "Pra <b>CRIAR</b> um servidor: <b>Jogar &gt; Criar servidor</b> e depois <b>Convide um amigo</b>"
+    ]
+  },
+  "3892270": {
+    "name": "Gamble With Your Friends",
+    "launch": "Gamble With Your Friends.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo Gamble With Your Friends.exe com o online ativo)",
+      "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite dele pelo Steam</b>",
+      "Pra <b>CRIAR</b> um servidor: <b>Hospedar jogo</b>, convide seus amigos e aguarde eles conectarem"
+    ]
+  },
+  "3050220": {
+    "name": "The King of Fighters XIII Global Match",
+    "launch": "game.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo game.exe com o online ativo)",
+      "Pra <b>ENTRAR</b>: no jogo vá em <b>ONLINE &gt; Partida do Jogador &gt; Partida Rápida</b> e aceite o convite de um amigo",
+      "Pra <b>CRIAR</b>: <b>ONLINE &gt; Partida do Jogador &gt; Criar Combinação &gt; Criar espaço</b>, e convide um amigo (ou aguarde ele entrar)"
+    ]
+  },
+  "1627720": {
+    "name": "Lies of P",
+    "launch": "LOP.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "<b>SÓ NA 1ª VEZ:</b> abra o jogo em single-player pelo <b>LiesofP/Binaries/Win64/LOP-Win64-Shipping.exe</b>, chegue ao menu principal e saia (use o botão <b>Abrir pasta</b> aqui pra achar o arquivo)",
+      "Depois, aqui no OVERISE clique em <b>Iniciar jogo</b> (abre pelo LOP.exe com o co-op ativo)",
+      "Pra <b>ENTRAR</b>: <b>Entrar em uma partida &gt; Próximo</b>, digite a <b>senha do lobby do seu amigo</b> e confirme",
+      "Pra <b>CRIAR</b>: <b>Hospedar um jogo &gt; Próximo</b>, defina uma <b>senha do lobby</b>, clique em <b>Hospedar</b> e aguarde o outro jogador"
+    ]
+  },
+  "1243830": {
+    "name": "Overcooked! All You Can Eat",
+    "launch": "XboxLiveAuth.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo XboxLiveAuth.exe com o online ativo)",
+      "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite dele pelo Steam</b>",
+      "Pra <b>CRIAR</b> um servidor: entre no <b>Jogo online</b>, convide um amigo e aguarde ele conectar"
+    ]
   }
 }

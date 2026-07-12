@@ -99,5 +99,15 @@
       "Pra <b>CRIAR</b> um servidor: <b>Multijogador &gt; Hospedar &gt; Novo jogo</b>, escolha a dificuldade e o número de jogadores, e clique em <b>Começar</b>",
       "Já no jogo: <b>Convidar um amigo &gt; selecione o amigo</b> pra ele entrar"
     ]
+  },
+  "2679100": {
+    "name": "Witchspire",
+    "launch": "Hercules/Binaries/Win64/Hercules-Win64-Shipping.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo Hercules-Win64-Shipping.exe com o online ativo)",
+      "Pra <b>ENTRAR</b> no jogo de um amigo: aguarde o <b>convite dele pelo Steam</b>",
+      "Pra <b>CRIAR</b> um servidor: <b>Criar novo jogo &gt; Começar</b>, aperte <b>Esc</b> e clique em <b>Convidar amigos</b>"
+    ]
   }
 }

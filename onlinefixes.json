@@ -88,5 +88,16 @@
       "Pra <b>ENTRAR</b> no jogo de um amigo: abra o <b>inventário</b> e use a <b>Efígie de Malenia</b> (conecta automático no host)",
       "Pra <b>CRIAR</b> um servidor: abra o inventário e use o <b>Pequeno Grande Vaso</b>, e aguarde os amigos conectarem"
     ]
+  },
+  "1326470": {
+    "name": "Sons Of The Forest",
+    "launch": "SonsOfTheForest.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo SonsOfTheForest.exe com o online ativo)",
+      "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite pelo Steam</b>",
+      "Pra <b>CRIAR</b> um servidor: <b>Multijogador &gt; Hospedar &gt; Novo jogo</b>, escolha a dificuldade e o número de jogadores, e clique em <b>Começar</b>",
+      "Já no jogo: <b>Convidar um amigo &gt; selecione o amigo</b> pra ele entrar"
+    ]
   }
 }

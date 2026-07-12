@@ -170,5 +170,16 @@
       "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite dele pelo Steam</b>",
       "Pra <b>CRIAR</b> um servidor: vá em <b>Servidor &gt; Lançar</b>, aperte <b>Esc</b>, clique em <b>Convide um amigo</b> e aguarde ele entrar"
     ]
+  },
+  "1144200": {
+    "name": "Ready or Not",
+    "launch": "ReadyOrNot.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo ReadyOrNot.exe com o online ativo)",
+      "<b>Importante:</b> faça login na sua conta da <b>Epic Games Store</b> na janela do navegador que abrir (é o EOS, necessário pro online)",
+      "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite dele pelo Steam</b>",
+      "Pra <b>CRIAR</b> um servidor: <b>Multijogador &gt; Somente para amigos do anfitrião</b>, aperte <b>Esc &gt; Gerente de recepção &gt; Convidar jogador</b> e convide seus amigos"
+    ]
   }
 }

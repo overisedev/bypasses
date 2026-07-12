@@ -160,5 +160,15 @@
       "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite dele pelo Steam</b>",
       "Pra <b>CRIAR</b> um servidor: entre no <b>Jogo online</b>, convide um amigo e aguarde ele conectar"
     ]
+  },
+  "108600": {
+    "name": "Project Zomboid",
+    "launch": "ProjectZomboid64.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo ProjectZomboid64.exe com o online ativo)",
+      "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite dele pelo Steam</b>",
+      "Pra <b>CRIAR</b> um servidor: vá em <b>Servidor &gt; Lançar</b>, aperte <b>Esc</b>, clique em <b>Convide um amigo</b> e aguarde ele entrar"
+    ]
   }
 }

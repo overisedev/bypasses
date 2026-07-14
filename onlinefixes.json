@@ -181,5 +181,15 @@
       "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite dele pelo Steam</b>",
       "Pra <b>CRIAR</b> um servidor: <b>Multijogador &gt; Somente para amigos do anfitrião</b>, aperte <b>Esc &gt; Gerente de recepção &gt; Convidar jogador</b> e convide seus amigos"
     ]
+  },
+  "2799860": {
+    "name": "Inazuma Eleven: Victory Road",
+    "launch": "nie.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo nie.exe com o online ativo)",
+      "Pra <b>ENTRAR</b>: <b>Modo Competitivo &gt; Competir online &gt; Partida no Lobby &gt; Buscar o saguão &gt; Procurar</b> e conecte-se a qualquer servidor",
+      "Pra <b>CRIAR</b>: <b>Modo Competitivo &gt; Competir online &gt; Partida no Lobby &gt; Criar um lobby privado &gt; Criar</b>, e aguarde os outros jogadores entrarem"
+    ]
   }
 }

@@ -191,5 +191,16 @@
       "Pra <b>ENTRAR</b>: <b>Modo Competitivo &gt; Competir online &gt; Partida no Lobby &gt; Buscar o saguão &gt; Procurar</b> e conecte-se a qualquer servidor",
       "Pra <b>CRIAR</b>: <b>Modo Competitivo &gt; Competir online &gt; Partida no Lobby &gt; Criar um lobby privado &gt; Criar</b>, e aguarde os outros jogadores entrarem"
     ]
+  },
+  "739630": {
+    "name": "Phasmophobia",
+    "launch": "Launcher.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo Launcher.exe com o online ativo)",
+      "No jogo, <b>complete o tutorial</b> primeiro (é necessário pra liberar o online)",
+      "Pra <b>ENTRAR</b>: clique em <b>Jogue</b> e conecte-se a qualquer servidor",
+      "Pra <b>CRIAR</b>: <b>Jogar &gt; Criar</b>, e aguarde os outros jogadores entrarem"
+    ]
   }
 }

@@ -244,5 +244,15 @@
       "Pra <b>ENTRAR</b> no jogo de um amigo: <b>Multiplayer &gt; Join</b> e conecte no servidor dele",
       "Pra <b>CRIAR</b> um servidor: <b>Multiplayer &gt; Host</b> e aguarde os outros jogadores entrarem"
     ]
+  },
+  "2406770": {
+    "name": "Bodycam",
+    "launch": "Bodycam.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faca login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo Bodycam.exe com o online ativo)",
+      "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite</b> dele",
+      "Pra <b>CRIAR</b> um servidor: convide os amigos e aguarde eles conectarem"
+    ]
   }
 }

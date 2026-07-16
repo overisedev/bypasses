@@ -254,5 +254,15 @@
       "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite</b> dele",
       "Pra <b>CRIAR</b> um servidor: convide os amigos e aguarde eles conectarem"
     ]
+  },
+  "3949040": {
+    "name": "RV There Yet?",
+    "launch": "Ride.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faca login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo Ride.exe com o online ativo)",
+      "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite</b> dele",
+      "Pra <b>CRIAR</b> um servidor: <b>Novo Jogo</b>, inicie o passeio e no menu (ESC) clique em <b>Convidar amigos</b>"
+    ]
   }
 }

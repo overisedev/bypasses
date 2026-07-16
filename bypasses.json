@@ -71,5 +71,16 @@
       "Abra o jogo <b>SEMPRE por aqui no OVERISE</b> clicando em <b>Iniciar</b> (abre pelo t6sp.exe)",
       "<b>Nunca abra pela Steam</b>, senao o jogo nao abre. So funciona pelo bypass"
     ]
+  },
+  "311210": {
+    "name": "Call of Duty: Black Ops III",
+    "launch": "boiii.exe",
+    "howto": [
+      "Baixe o <b>Call of Duty: Black Ops III</b> normalmente pela sua Steam (a versao base do jogo)",
+      "Aqui no OVERISE, na aba <b>Bypass</b>, clique em <b>Aplicar</b> (coloca o app <b>BOIII</b> na pasta do jogo)",
+      "Clique em <b>Iniciar</b> aqui no OVERISE: abre o <b>BOIII</b>, que atualiza os arquivos e aplica o bypass sozinho",
+      "Na <b>primeira vez</b> o BOIII pode baixar alguns arquivos, aguarde terminar. Depois e so jogar (campanha, zumbi e online)",
+      "<b>Nunca abra pela Steam</b>, sempre pelo BOIII aqui no OVERISE"
+    ]
   }
 }

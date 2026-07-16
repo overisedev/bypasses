@@ -51,5 +51,15 @@
   },
   "990080": {
     "name": "Hogwarts Legacy"
+  },
+  "42700": {
+    "name": "Call of Duty: Black Ops",
+    "launch": "BlackOps.exe",
+    "howto": [
+      "Baixe o <b>Call of Duty: Black Ops</b> normalmente pela sua Steam (a versao base do jogo)",
+      "Aqui no OVERISE, na aba <b>Bypass</b>, clique em <b>Aplicar</b> (troca os arquivos na pasta do jogo)",
+      "Abra o jogo <b>SEMPRE por aqui no OVERISE</b> clicando em <b>Iniciar</b> (abre pelo BlackOps.exe)",
+      "<b>Nunca abra pela Steam</b>, senao o jogo nao abre. So funciona pelo bypass"
+    ]
   }
 }

@@ -234,5 +234,15 @@
       "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite dele</b>",
       "Pra <b>CRIAR</b>: <b>Play Online &gt; Host through Steam &gt; Invite Friend</b>, e aguarde o amigo conectar"
     ]
+  },
+  "2868840": {
+    "name": "Slay the Spire 2",
+    "launch": "SlayTheSpire2.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo SlayTheSpire2.exe com o online ativo)",
+      "Pra <b>ENTRAR</b> no jogo de um amigo: <b>Multiplayer &gt; Join</b> e conecte no servidor dele",
+      "Pra <b>CRIAR</b> um servidor: <b>Multiplayer &gt; Host</b> e aguarde os outros jogadores entrarem"
+    ]
   }
 }

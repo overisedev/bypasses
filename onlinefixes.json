@@ -212,5 +212,27 @@
       "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite dele pelo Steam</b>",
       "Pra <b>CRIAR</b> uma sala: <b>hospede uma sala</b> e convide seus amigos pelo Steam, e aguarde eles entrarem"
     ]
+  },
+  "1272080": {
+    "name": "PAYDAY 3",
+    "launch": "XboxLiveAuth.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "<b>SÓ NA 1ª VEZ:</b> crie uma conta <b>Nebula</b> (site oficial do PAYDAY) e <b>vincule</b> a ela a conta da <b>Microsoft Store</b> que você vai usar no login",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo XboxLiveAuth.exe) e <b>faça login na sua conta da Microsoft Store</b>",
+      "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite dele</b>",
+      "Pra <b>CRIAR</b>: adicione seus amigos pelo <b>apelido</b> na lista de amigos, convide e aguarde eles entrarem"
+    ]
+  },
+  "2001120": {
+    "name": "Split Fiction",
+    "launch": "steam",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "É a versão <b>Friend's Pass</b>: só um de vocês precisa ter o jogo; o amigo entra pelo <b>Passe de Amigo</b> grátis",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (esse abre <b>pela Steam</b>)",
+      "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite dele</b>",
+      "Pra <b>CRIAR</b>: <b>Play Online &gt; Host through Steam &gt; Invite Friend</b>, e aguarde o amigo conectar"
+    ]
   }
 }

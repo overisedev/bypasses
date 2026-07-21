@@ -274,5 +274,15 @@
       "No jogo entre em <b>Batalha Online</b> e selecione o tipo de partida",
       "Nas configuracoes da partida, defina a <b>regiao como QUALQUER</b> e clique em <b>Comecar a combinar</b> (conecta automatico com um oponente)"
     ]
+  },
+  "1426210": {
+    "name": "It Takes Two",
+    "launch": "steam",
+    "howto": [
+      "Abra o <b>Steam</b> e faca login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pela Steam com o Passe de Amigo online ativo)",
+      "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite</b> dele",
+      "Pra <b>CRIAR</b> um servidor: <b>Jogar online &gt; Hospedar via Steam &gt; Convidar um amigo</b> e aguarde ele conectar"
+    ]
   }
 }

@@ -294,5 +294,15 @@
       "Pra <b>ENTRAR</b> no jogo de um amigo: <b>Multijogador &gt; Participe do jogo online</b> e conecte no servidor dele",
       "Pra <b>CRIAR</b> um servidor: <b>Multijogador &gt; Hospedar jogo online &gt; Novo jogo</b> e aguarde os jogadores entrarem"
     ]
+  },
+  "2827200": {
+    "name": "MIMESIS",
+    "launch": "MIMESIS.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faca login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo MIMESIS.exe com o online ativo)",
+      "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite</b> dele",
+      "Pra <b>CRIAR</b> um servidor: <b>Novo TRAM</b>, aperte <b>ESC</b> e clique em <b>Convidar amigos</b>, e aguarde eles entrarem"
+    ]
   }
 }

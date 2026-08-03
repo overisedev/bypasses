@@ -314,5 +314,15 @@
       "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite</b> dele no multiplayer",
       "Pra <b>CRIAR</b> um servidor: crie/hospede uma partida e convide os amigos, e aguarde eles entrarem"
     ]
+  },
+  "2424420": {
+    "name": "Avatar Legends: The Fighting Game",
+    "launch": "Atla.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faca login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo Atla.exe com o online ativo)",
+      "Pra <b>ENTRAR</b>: Online VS -> Encontros/Salas de espera -> <b>Entrar no Lobby Privado</b> -> insira o codigo de convite / aceite o convite do amigo",
+      "Pra <b>CRIAR</b>: Online VS -> Saguoes -> <b>Criar lobby privado</b> -> compartilhe o codigo (ou Shift+Tab e convide) -> aguarde o amigo conectar"
+    ]
   }
 }

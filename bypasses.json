@@ -112,5 +112,15 @@
       "Abra o jogo <b>SEMPRE por aqui no OVERISE</b> clicando em <b>Iniciar</b> (abre pelo FIFA22.exe)",
       "<b>Nunca abra pela Steam</b>, senao o jogo nao abre. So funciona pelo bypass"
     ]
+  },
+  "3321460": {
+    "name": "Crimson Desert",
+    "folder": "Crimson Desert",
+    "launch": "CrimsonDesert.exe"
+  },
+  "2840770": {
+    "name": "Avatar: Frontiers of Pandora",
+    "folder": "Avatar Frontiers of Pandora",
+    "launch": "afop.exe"
   }
 }

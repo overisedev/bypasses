@@ -324,5 +324,14 @@
       "Pra <b>ENTRAR</b>: Online VS -> Encontros/Salas de espera -> <b>Entrar no Lobby Privado</b> -> insira o codigo de convite / aceite o convite do amigo",
       "Pra <b>CRIAR</b>: Online VS -> Saguoes -> <b>Criar lobby privado</b> -> compartilhe o codigo (ou Shift+Tab e convide) -> aguarde o amigo conectar"
     ]
+  },
+  "3527290": {
+    "name": "PEAK",
+    "launch": "PEAK.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faca login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo PEAK.exe com o online ativo)",
+      "Pra jogar com amigos: <b>crie uma sala</b> e convide pelo Steam (Shift+Tab), ou <b>aceite o convite</b> de um amigo"
+    ]
   }
 }

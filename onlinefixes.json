@@ -333,5 +333,13 @@
       "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo PEAK.exe com o online ativo)",
       "Pra jogar com amigos: <b>crie uma sala</b> e convide pelo Steam (Shift+Tab), ou <b>aceite o convite</b> de um amigo"
     ]
+  },
+  "3376250": {
+    "name": "Nine-Ball Roulette",
+    "howto": [
+      "Abra o <b>Steam</b> e faca login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (cola tudo na pasta do jogo e abre pelo exe, com o online ativo)",
+      "Pra jogar com amigos: <b>crie ou entre numa sala</b> e convide pelo Steam (Shift+Tab)"
+    ]
   }
 }

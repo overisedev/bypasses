@@ -122,5 +122,9 @@
     "name": "Avatar: Frontiers of Pandora",
     "folder": "Avatar Frontiers of Pandora",
     "launch": "afop.exe"
+  },
+  "3751950": {
+    "name": "Assassin's Creed IV Black Flag (Resynced)",
+    "launch": "ACBlackFlag.exe"
   }
 }

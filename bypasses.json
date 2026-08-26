@@ -126,5 +126,9 @@
   "3751950": {
     "name": "Assassin's Creed IV Black Flag (Resynced)",
     "launch": "ACBlackFlag.exe"
+  },
+  "234140": {
+    "name": "Mad Max",
+    "launch": "MadMax.exe"
   }
 }

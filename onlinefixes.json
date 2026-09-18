@@ -360,5 +360,14 @@
       "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite</b> dele pelo Steam",
       "Pra <b>CRIAR</b> uma sala: crie a partida e <b>convide seus amigos</b> pelo Steam"
     ]
+  },
+  "1374490": {
+    "name": "RuneScape: Dragonwilds",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo <b>RSDragonwilds-Win64-Shipping.exe</b> com o online ativo)",
+      "Pra <b>JOGAR JUNTO</b>: um cria o mundo e <b>convida os amigos pelo Steam</b>; os outros <b>aceitam o convite</b> pelo Steam",
+      "Todos precisam estar com o fix aplicado (clicar em Iniciar jogo aqui) e na <b>mesma versão</b> do jogo"
+    ]
   }
 }

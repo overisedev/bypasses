@@ -130,5 +130,9 @@
   "234140": {
     "name": "Mad Max",
     "launch": "MadMax.exe"
+  },
+  "447040": {
+    "name": "Watch Dogs 2",
+    "launch": "bin/WatchDogs2.exe"
   }
 }

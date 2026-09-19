@@ -369,5 +369,14 @@
       "Pra <b>JOGAR JUNTO</b>: um cria o mundo e <b>convida os amigos pelo Steam</b>; os outros <b>aceitam o convite</b> pelo Steam",
       "Todos precisam estar com o fix aplicado (clicar em Iniciar jogo aqui) e na <b>mesma versão</b> do jogo"
     ]
+  },
+  "4450620": {
+    "name": "Grain Rot",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo <b>Helden-Win64-Shipping.exe</b> com o online ativo)",
+      "Pra <b>JOGAR JUNTO</b>: um cria a sala e <b>convida os amigos pelo Steam</b>; os outros <b>aceitam o convite</b> pelo Steam",
+      "Todos com o fix aplicado (clicar em Iniciar jogo aqui) e na <b>mesma versão</b> do jogo"
+    ]
   }
 }

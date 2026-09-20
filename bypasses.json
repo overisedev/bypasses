@@ -134,5 +134,9 @@
   "447040": {
     "name": "Watch Dogs 2",
     "launch": "bin/WatchDogs2.exe"
+  },
+  "1971870": {
+    "name": "Mortal Kombat 1",
+    "launch": "MK12.exe"
   }
 }

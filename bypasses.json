@@ -60,11 +60,6 @@
   "2668510": {
     "name": "Red Dead Redemption"
   },
-  "271590": {
-    "args": "-nobattleye",
-    "launch": "PlayGTAV.exe",
-    "name": "Grand Theft Auto V Legacy"
-  },
   "2840770": {
     "folder": "Avatar Frontiers of Pandora",
     "launch": "afop.exe",
@@ -90,6 +85,10 @@
     ],
     "launch": "ACShadows.exe",
     "name": "Assassin's Creed Shadows"
+  },
+  "3240220": {
+    "launch": "PlayGTAV.exe",
+    "name": "Grand Theft Auto V Enhanced"
   },
   "3321460": {
     "folder": "Crimson Desert",
